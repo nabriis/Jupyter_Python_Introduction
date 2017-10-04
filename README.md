@@ -9,13 +9,13 @@ Each notebook takes roughly 1 hour to go through (reading + exercises).
 Consider skipping segments that are familiar to you and using the notebooks as refence during the course.
 
 ## List of notebooks:
-1) [Introduction to Jupyter notebooks and Python](1 - Introduction to Jupyter notebooks and Python.ipynb) - (Current)
+1 - Introduction to Jupyter notebooks and Python.ipynb
 
-2) [Introduction to NumPy](2 - Introduction to NumPy.ipynb)
+2 - Introduction to NumPy.ipynb
 
-3) [Introduction to Matplotlib](3 - Introduction to Matplotlib.ipynb)
+3 - Introduction to Matplotlib.ipynb
 
-4) [Debugging and more](4 - Debugging and more.ipynb)
+4 - Debugging and more.ipynb
 
 ### Licence:
 These notebooks are released under the Attribution 3.0 Unported Licence (https://creativecommons.org/licenses/by/3.0/). This means you are free to share and adapt the content as you please as long as you give appropriate credit, link the licence and indicate if changes are made to the material.
